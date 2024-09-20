@@ -1,0 +1,26 @@
+
+
+.card-body{
+    
+    background-color: silver;
+}
+.Menu{
+    background-color: lightcoral;
+    font-size: x-large;
+}
+.addclub{
+    background-color: lightskyblue;
+    font-size: x-large;
+}
+.mt-4{
+    background-color: rgb(184, 181, 133);
+}
+.table-bordered{
+    background-color: mediumseagreen;
+}
+#club-table-body{
+    background-color:rgb(135, 63, 74) ;
+}
+#club-form{
+    background:rgb(224, 224, 106);
+}
